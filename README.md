@@ -1,7 +1,7 @@
 # grodnolib-info
 Useful information on Grodno Library
 
-## На сколько даётся кника?
+## На сколько даётся книга?
 
 На 15 дней, можно продлять ещё два раза по 15 дней.
 
